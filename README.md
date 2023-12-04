@@ -1,7 +1,7 @@
 # banner-demo
 
 ## Example
-![演示效果](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c0e9fb605bf248e18743d26e839b9211~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1024&h=519&s=6092642&e=gif&f=237&b=020202)
+![演示效果](https://s2.loli.net/2023/11/25/MB1saXq3joNpnTY.gif)
 
 ## Project setup
 ```
